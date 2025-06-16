@@ -29,3 +29,6 @@ Python | Difference between iterable and iterator
 Python | Difference between iterable and iterator
 Last Updated : 27 Sep, 2022
 Iterable is an object, that one can iterate over. It generates an Iterator whe
+# Selected Text from https://www.geeksforgeeks.org/python/python-difference-iterable-iterator/
+
+Python | Difference between iterable and iterator
