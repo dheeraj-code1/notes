@@ -10,3 +10,6 @@ Here is a simple Python code, printing a string. We recommend you to edit the co
 ### https://www.geeksforgeeks.org/python/python-programming-language-tutorial/
 
 10. Web Development with Python
+# Selected Text from https://www.geeksforgeeks.org/python/python-programming-language-tutorial/
+
+Features of Python
