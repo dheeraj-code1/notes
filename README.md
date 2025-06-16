@@ -15,3 +15,6 @@ Learning	Keras is a high-level neural networks API. It is written in Python and 
 # Selected Text from https://www.geeksforgeeks.org/python/python-difference-iterable-iterator/
 
 Python | Difference between iterable and iterator
+# Selected Text from https://www.geeksforgeeks.org/python/python-difference-iterable-iterator/
+
+Python | Difference between iterable and iterator
