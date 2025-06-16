@@ -12,3 +12,6 @@ Frameworks like Django and Flask can be used to create dynamic websites and web 
 # Selected Text from https://www.digitalocean.com/community/tutorials/python-tutorial
 
 Learning	Keras is a high-level neural networks API. It is written in Python and can run on top of Theano, TensorFlow or CNTK.
+# Selected Text from https://www.geeksforgeeks.org/python/python-difference-iterable-iterator/
+
+Python | Difference between iterable and iterator
