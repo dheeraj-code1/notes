@@ -7,3 +7,6 @@ Python is used by big companies like Google, Netflix and NASA.
 
 First Python Program
 Here is a simple Python code, printing a string. We recommend you to edit the code and try to print your own name.
+### https://www.geeksforgeeks.org/python/python-programming-language-tutorial/
+
+10. Web Development with Python
